@@ -17,7 +17,7 @@ public class AccountController : ControllerBase
         _jwtTokenProvider = jwtTokenProvider;
     }
 
-    [HttpPost("[action]")]
+    [HttpPost("authenticate")]
     public IActionResult Authenticate(AuthenticateRequest authenticateRequest)
     {
         if (!ModelState.IsValid)
