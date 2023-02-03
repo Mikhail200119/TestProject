@@ -1,0 +1,14 @@
+C:\Users\koval\RiderProjects\Event\Event.Dal\bin\Debug\net6.0\Event.Dal.deps.json
+C:\Users\koval\RiderProjects\Event\Event.Dal\bin\Debug\net6.0\Event.Dal.dll
+C:\Users\koval\RiderProjects\Event\Event.Dal\bin\Debug\net6.0\Event.Dal.pdb
+C:\Users\koval\RiderProjects\Event\Event.Dal\obj\Debug\net6.0\Event.Dal.csproj.AssemblyReference.cache
+C:\Users\koval\RiderProjects\Event\Event.Dal\obj\Debug\net6.0\Event.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koval\RiderProjects\Event\Event.Dal\obj\Debug\net6.0\Event.Dal.AssemblyInfoInputs.cache
+C:\Users\koval\RiderProjects\Event\Event.Dal\obj\Debug\net6.0\Event.Dal.AssemblyInfo.cs
+C:\Users\koval\RiderProjects\Event\Event.Dal\obj\Debug\net6.0\Event.Dal.csproj.CoreCompileInputs.cache
+C:\Users\koval\RiderProjects\Event\Event.Dal\obj\Debug\net6.0\Event.Dal.dll
+C:\Users\koval\RiderProjects\Event\Event.Dal\obj\Debug\net6.0\refint\Event.Dal.dll
+C:\Users\koval\RiderProjects\Event\Event.Dal\obj\Debug\net6.0\Event.Dal.pdb
+C:\Users\koval\RiderProjects\Event\Event.Dal\obj\Debug\net6.0\ref\Event.Dal.dll
+C:\Users\koval\RiderProjects\Event\Event.Dal\bin\Debug\net6.0\Event.Dal.runtimeconfig.json
+C:\Users\koval\RiderProjects\Event\Event.Dal\obj\Debug\net6.0\Event.Dal.genruntimeconfig.cache

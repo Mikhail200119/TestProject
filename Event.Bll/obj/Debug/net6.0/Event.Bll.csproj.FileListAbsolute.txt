@@ -1,0 +1,15 @@
+C:\Users\koval\RiderProjects\Event\Event.Bll\bin\Debug\net6.0\Event.Bll.deps.json
+C:\Users\koval\RiderProjects\Event\Event.Bll\bin\Debug\net6.0\Event.Bll.dll
+C:\Users\koval\RiderProjects\Event\Event.Bll\bin\Debug\net6.0\Event.Bll.pdb
+C:\Users\koval\RiderProjects\Event\Event.Bll\bin\Debug\net6.0\Event.Dal.dll
+C:\Users\koval\RiderProjects\Event\Event.Bll\bin\Debug\net6.0\Event.Dal.pdb
+C:\Users\koval\RiderProjects\Event\Event.Bll\obj\Debug\net6.0\Event.Bll.csproj.AssemblyReference.cache
+C:\Users\koval\RiderProjects\Event\Event.Bll\obj\Debug\net6.0\Event.Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koval\RiderProjects\Event\Event.Bll\obj\Debug\net6.0\Event.Bll.AssemblyInfoInputs.cache
+C:\Users\koval\RiderProjects\Event\Event.Bll\obj\Debug\net6.0\Event.Bll.AssemblyInfo.cs
+C:\Users\koval\RiderProjects\Event\Event.Bll\obj\Debug\net6.0\Event.Bll.csproj.CoreCompileInputs.cache
+C:\Users\koval\RiderProjects\Event\Event.Bll\obj\Debug\net6.0\Event.Bll.csproj.CopyComplete
+C:\Users\koval\RiderProjects\Event\Event.Bll\obj\Debug\net6.0\Event.Bll.dll
+C:\Users\koval\RiderProjects\Event\Event.Bll\obj\Debug\net6.0\refint\Event.Bll.dll
+C:\Users\koval\RiderProjects\Event\Event.Bll\obj\Debug\net6.0\Event.Bll.pdb
+C:\Users\koval\RiderProjects\Event\Event.Bll\obj\Debug\net6.0\ref\Event.Bll.dll
