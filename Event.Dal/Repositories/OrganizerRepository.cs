@@ -9,6 +9,4 @@ public class OrganizerRepository : BaseRepository<OrganizerDbModel>, IOrganizerR
     public OrganizerRepository(DbContext context) : base(context)
     {
     }
-
-    public void DeleteRange(OrganizerDbModel organizers) => Table.RemoveRange(organizers);
 }
